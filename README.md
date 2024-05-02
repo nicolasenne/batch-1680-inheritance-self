@@ -1,0 +1,1 @@
+# batch-1680-inheritance-self
